@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "sstream": "c",
+        "random": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "tuple": "c"
+    },
+    "pomodoro.pauseTime": 10,
+    "pomodoro.workTime": 50
+}
